@@ -1,1 +1,1 @@
-# test-sync-jp
+# test-sync-project
